@@ -1,3 +1,3 @@
 # CryptoCurrency_API
 
-![alt text](crypto.PNG)
+![alt text](crypto.jpg)
